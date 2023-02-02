@@ -1,0 +1,9 @@
+.menubar {
+    background: #ff0000;
+    border-bottom: 1px solid #e5e5e5;
+    height: 50px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
